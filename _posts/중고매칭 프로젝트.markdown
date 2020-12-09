@@ -6,8 +6,9 @@ date: 2020-12-09 15:35:20
 tags:
 categories: guide
 ---
-A paragraph looks like this �� dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+내용 : 구매자가 원하는 구매 물품을 카테고리별/상품명별로 등록하면 해당 카테고리가 등록되어 있는 견적서가 구매자에게 알림이 가고 서로 매칭이 되는 서비스
 
+개발기간 : v1.0 - 2020.10.12 ~ 2020.10.23   v2.0 - 2020.11.23 ~ 2020.12.04
 ***
 
 #### Headings by default:
