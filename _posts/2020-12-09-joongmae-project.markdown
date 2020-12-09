@@ -79,6 +79,4 @@ categories: guide
 
 #### Videos
 
-###### Youtube
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://chaengstory.tistory.com/124" frameborder="0" allowfullscreen></iframe>
