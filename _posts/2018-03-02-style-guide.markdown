@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Style Guide
-image: 8.jpg
-date: 2018-03-02 13:35:20 +0200
+title: 중고 매칭 서비스 프로젝트
+image: main_page.jpg
+date: 2020-12-09 15:35:20
 tags:
 categories: guide
 ---
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+A paragraph looks like this �� dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
 
 ***
 
@@ -59,7 +59,7 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ###### A quote looks like this:
 
-> Never put off till tomorrow what may be done day after tomorrow just as well. — Mark Twain
+> Never put off till tomorrow what may be done day after tomorrow just as well. �� Mark Twain
 
 ***
 

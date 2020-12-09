@@ -1,13 +1,13 @@
 title: YG Blog
-description: Ã¤¿µ±âÀÇ ºí·Î±×
-baseurl: "" # the subpath of your site, e.g. /blog
+description: ì±„ì˜ê¸°ì˜ ë¸”ë¡œê·¸
+baseurl: "/younggi-chae" # the subpath of your site, e.g. /blog
 url: "younggi-chae.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    YoungGi Chae
 author-image:   profile.jpg
 author-job:     Web Developer
-about-author:   µµÀüÇÏ°í ÁØºñÇÏ´Ùº¸¸é Ç×»ó ÁÁÀº °á°ú·Î µ¹¾Æ¿Â´Ù.¡¡¡¡È­ÀÌÆÃ!
+about-author:   ë„ì „í•˜ê³  ì¤€ë¹„í•˜ë‹¤ë³´ë©´ í•­ìƒ ì¢‹ì€ ê²°ê³¼ë¡œ ëŒì•„ì˜¨ë‹¤.ã€€ã€€í™”ì´íŒ…!
 
 # Social settings
 
