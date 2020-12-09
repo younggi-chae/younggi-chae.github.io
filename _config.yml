@@ -1,6 +1,6 @@
 title: YG Blog
 description: 채영기의 블로그
-baseurl: "/younggi-chae" # the subpath of your site, e.g. /blog
+baseurl: "/post" # the subpath of your site, e.g. /blog
 url: "younggi-chae.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
