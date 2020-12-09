@@ -1,24 +1,17 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
+title: YG Blog
+description: 채영기의 블로그
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "younggi-chae.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
-author-image:   1.jpg
+author-name:    YoungGi Chae
+author-image:   profile.jpg
 author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+about-author:   도전하고 준비하다보면 항상 좋은 결과로 돌아온다.　　화이팅!
 
 # Social settings
-social-twitter:   artemsheludko_
-social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
-social-youtube:
-social-vk:   
+
+social-github: younggi-chae   
 social-linkedin:
 
 # Newsletter
