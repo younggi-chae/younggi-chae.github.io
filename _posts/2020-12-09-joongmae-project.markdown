@@ -46,6 +46,14 @@ categories: guide
 
 ***
 
+## 개발방법론
+
+* Agile방법론
+* 스크럼 방식  
+![]({{site.baseurl}}/images/aglie.jpg)
+
+***
+
 ## 팀구성 및 나의 역할
 
 * 팀  
