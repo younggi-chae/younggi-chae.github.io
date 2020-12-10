@@ -19,22 +19,24 @@ categories: guide
 >1차- 2020.10.12 ~ 2020.10.23(2주)   
 2차- 2020.11.23 ~ 2020.12.04(2주)      
 
-1주차 - 주제선정 및 요구사항 정리, 명명법, 유스케이스, DB모델링, 화면설계, BackLog  
-2주차 - DB구축 및 Git Repository 생성, 개발환경 구축 및 개발시작  
-3주차 - 개발  
-4주차 - 최종취합 및 점검, 오류 수정, 결과물 정리  
+* 1주차 - 주제선정 및 요구사항 정리, 명명법, 유스케이스, DB모델링, 화면설계, BackLog  
+* 2주차 - DB구축 및 Git Repository 생성, 개발환경 구축 및 개발시작  
+* 3주차 - 개발  
+* 4주차 - 최종취합 및 점검, 오류 수정, 결과물 정리  
 
 ***
 ## 개발환경
 
+* 개발환경 : Window10, Spring5.0.7, MyBatis, Git, aws, Maven
+* DB : Oracle
+* Server : Apache Tomcat9.0
+* 주요기술 : Java, HTML5, CSS, JavaScript, Jquery, Ajax, Json, JSP  
 
-###### Ordered list example:
+***
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+## DB Modeling
+
+![]({{site.baseurl}}/images/ERdiagram.jpg)
 
 ###### Unordered list example:
 
