@@ -36,7 +36,7 @@ categories: guide
 
 ## DB Modeling
 
-![]({{site.baseurl}}/images/ERD.jpg)
+![]({{site.baseurl}}/images/ERD.png)
 
 ***
 
@@ -53,9 +53,9 @@ categories: guide
 -초반 : DB설계 및 UI구성  
 -중후반 : 각자 담당하는 기능 구현 후 다음 기능 진행  
 
-*나의 역할
--마이페이지 설계 및 기능구현
--깃마스터 : 매일 팀원들의 소스를 git으로 취합하고 conflict 해결, 코드리뷰
+* 나의 역할  
+-마이페이지 설계 및 기능구현  
+-깃마스터 : 매일 팀원들의 소스를 git으로 취합하고 conflict 해결, 코드리뷰  
 
 ***
 
@@ -92,6 +92,6 @@ categories: guide
 
 ***
 
-#### Videos
+## 시연 영상
 
 <iframe src='https://www.youtube.com/embed//VB88Y0Wy88s' frameborder='0' allowfullscreen></iframe>
