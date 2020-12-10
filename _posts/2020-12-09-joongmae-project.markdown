@@ -60,11 +60,9 @@ categories: guide
 -4가지 방식의 페이징 구현 (무한 스크롤, 더보기 버튼, 이전 다음 버튼, 숫자 페이징)
 -깃마스터 : 매일 팀원들의 소스를 git으로 취합하고 conflict 해결, 코드리뷰  
 
-![]({{site.baseurl}}/images/myPageFunction.jpg)
-
 ***
 
-
+![]({{site.baseurl}}/images/myPageFunction.jpg)
 
 ***
 
