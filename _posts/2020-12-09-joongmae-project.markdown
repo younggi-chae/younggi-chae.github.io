@@ -70,33 +70,14 @@ categories: guide
 
 ***
 
-![]({{site.baseurl}}/images/myPageFunction.jpg)
+## github 링크 및 PDF
 
-***
-
-#### Syntax Highlighter
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-#### Images
-
-![]({{site.baseurl}}/images/2.jpg)
+* <a href="https://github.com/younggi-chae/Joongmae-project" target="_blank"><div data-icon='ei-sc-github' data-size='m'>github</div></a>
 
 ***
 
 ## 시연 영상
 
 <iframe src='https://www.youtube.com/embed//VB88Y0Wy88s' frameborder='0' allowfullscreen></iframe>
+
+***
