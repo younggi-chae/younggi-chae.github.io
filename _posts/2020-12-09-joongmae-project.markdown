@@ -22,8 +22,8 @@ categories: guide
 2주차 - DB구축 및 Git Repository 생성, 개발환경 구축 및 개발시작  
 3주차 - 개발  
 4주차 - 최종취합 및 점검, 오류 수정, 결과물 정리  
-***
 
+***
 #### Lists
 
 ###### Ordered list example:
