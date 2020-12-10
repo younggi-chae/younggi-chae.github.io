@@ -70,15 +70,16 @@ categories: guide
 
 ***
 
+## 시연 영상
+
+<iframe src='https://www.youtube.com/embed//VB88Y0Wy88s' frameborder='0' allowfullscreen></iframe>
+
+***
+
 ## github 링크 및 PDF
 
 * <a href="https://github.com/younggi-chae/Joongmae-project" target="_blank">github</a>
 * <a href="https://drive.google.com/file/d/1GBFOURlkOapWc-gWCgi4tKBLogshyuoa/view" target="_blank">pdf</a>
 
-***
-
-## 시연 영상
-
-<iframe src='https://www.youtube.com/embed//VB88Y0Wy88s' frameborder='0' allowfullscreen></iframe>
 
 ***
