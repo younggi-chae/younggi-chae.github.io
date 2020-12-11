@@ -61,8 +61,8 @@ categories: guide
 -초반 : DB설계 및 UI구성  
 -중후반 : 각자 담당하는 기능 구현 후 다음 기능 진행  
 
-* 나의 역할 
--깃마스터 : 매일 팀원들의 소스를 Git으로 취합하고 conflict 해결, 코드리뷰 
+* 나의 역할  
+-깃마스터 : 매일 팀원들의 소스를 Git으로 취합하고 conflict 해결, 코드리뷰  
 -Spring framework와 Ajax기술을 이용한 비동기식 마이페이지 구현  
 -Rest API와 Ajax기술을 통해 기간조회, 필터링 기능, 위시리스트 추가 등 reload 없는 화면 전환 구현  
 -Session을 이용한 최근 본 상품 구현  
