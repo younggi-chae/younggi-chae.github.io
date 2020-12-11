@@ -78,8 +78,8 @@ categories: guide
 
 ## github 링크 및 PDF
 
-* <a href="https://github.com/younggi-chae/Joongmae-project" target="_blank">github</a>
-* <a href="https://drive.google.com/file/d/1GBFOURlkOapWc-gWCgi4tKBLogshyuoa/view" target="_blank">pdf</a>
+* <a href="https://github.com/younggi-chae/Joongmae-project" target="_blank">Github Repository</a>
+* <a href="https://drive.google.com/file/d/1GBFOURlkOapWc-gWCgi4tKBLogshyuoa/view" target="_blank">Project PDF</a>
 
 
 ***
