@@ -61,12 +61,21 @@ categories: guide
 -초반 : DB설계 및 UI구성  
 -중후반 : 각자 담당하는 기능 구현 후 다음 기능 진행  
 
-* 나의 역할  
+* 나의 역할 
+-깃마스터 : 매일 팀원들의 소스를 git으로 취합하고 conflict 해결, 코드리뷰 
 -spring framework와 Ajax기술을 이용한 비동기식 마이페이지 구현  
 -Rest API와 Ajax기술을 통해 기간조회, 필터링 기능, 위시리스트 추가 등 reload 없는 화면 전환 구현  
 -session을 이용한 최근 본 상품 구현  
--4가지 방식의 페이징 구현 (무한 스크롤, 더보기 버튼, 이전 다음 버튼, 숫자 페이징)  
--깃마스터 : 매일 팀원들의 소스를 git으로 취합하고 conflict 해결, 코드리뷰    
+-4가지 방식의 페이징 구현 (무한 스크롤, 더보기 버튼, 이전 다음 버튼, 숫자 페이징)    
+
+***
+
+## 배운점
+
+* 저의 첫 팀플레이 웹 프로젝트입니다. 이번 프로젝트로 DB설계부터 mapper, service, controller를 거쳐 view까지 이어지는 데이터의 흐름들을 깨달을 수 있었습니다.
+저는 프로젝트를 단순 CRUD작업으로 끝내고 싶지 않았기 때문에 다른 많은 사이트들을 벤치마킹하여 적용해 보려는 노력을 하였습니다.  
+페이지 이동을 최소화하는 마이페이지를 만들고 싶었기 때문에 Ajax를 활용한 비동기 처리를 파고들기 시작했고, 페이징도 다양한 기법으로 구현해 보면서 역량 향상에 큰 도움이 되었습니다.  
+조인, 동적쿼리 등 쿼리작성과 parameter값을 정확히 넘기는 작업, 리팩토링 작업을 하면서 수많은 오류를 마주하는 어려움이 있었지만 이러한 과정이 있었기에 더  많은 성장을 할 수 있었던 계기가 되었다고 생각합니다.    
 
 ***
 
@@ -74,11 +83,12 @@ categories: guide
 
 <iframe src='https://www.youtube.com/embed//VB88Y0Wy88s' frameborder='0' allowfullscreen></iframe>
 
+
 ***
 
 ## github 링크 및 PDF
 
-* <a href="https://github.com/younggi-chae/Joongmae-project" target="_blank">Github Repository</a>
+* <a href="https://github.com/younggi-chae/Joongmae-project" target="_blank">Github Link</a>
 * <a href="https://drive.google.com/file/d/1GBFOURlkOapWc-gWCgi4tKBLogshyuoa/view" target="_blank">Project PDF</a>
 
 
